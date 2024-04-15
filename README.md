@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>
+  
+  ---
+  
 ### :woman_technologist: About Me :
 I am an aspiring developer on Unreal Engine and Unity.
 - In my free time, I solve problems on LeetCode.
