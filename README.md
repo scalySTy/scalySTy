@@ -14,4 +14,4 @@ I am an aspiring developer on Unreal Engine and Unity.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scalySTy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scalySTy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=scalySTy)](https://github.com/KnlnKS/leetcode-stats)
